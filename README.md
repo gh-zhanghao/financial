@@ -1,2 +1,1 @@
-This project is for financial testing.
-
+This project is for financial transactions testing.
