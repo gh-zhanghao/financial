@@ -1,2 +1,2 @@
-This project is for financial test.
+This project is for financial testing.
 
