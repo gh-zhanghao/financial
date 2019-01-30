@@ -2,6 +2,6 @@ import sqlite3
 def change_data_fromat:
     conn = sqlite3.connect('chinese.db')
     cur = conn.cursor()
-    for 
-    
-    cur.execute("")
+    for row in rows:
+        cur.execute("select * from history_data")
+        print(row)
